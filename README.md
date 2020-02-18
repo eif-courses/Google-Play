@@ -11,11 +11,7 @@
 
  <img src="https://raw.githubusercontent.com/eif-courses/Google-Play/master/Screenshot_2020-02-18-13-06-58-331_get.some.money.starter.jpg" heigth="400" width="200"> 
   <img src="https://raw.githubusercontent.com/eif-courses/Google-Play/master/Screenshot_2020-02-18-13-07-55-175_get.some.money.starter.jpg" heigth="400" width="200"> 
-
-
 <img src="https://lh3.googleusercontent.com/0Md213j3f82ZOZY66Ys6_USD50utuIkWppdrgEqK6odmCLBlWrIK1MnEtJh_y0cfPw=w1745-h852-rw" heigth="400" width="200">
-    
-      
     </td>
   </tr>
 </table>
